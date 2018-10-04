@@ -24,3 +24,8 @@ OJO: Para cambiar el state es necesario llamar a setState() pero dentro hay que 
 
 ## Reusable Components (bit.ly/psreact2)
 
+Acordarse de que las clases tienen estados (states) pero las funciones no
+
+
+Basicamente los props cuando renderizas son las cosas que le has metido cuando instancias el componente, asi puede acceder a ellas (puedes ver app_two_components_badfunction.js)
+
