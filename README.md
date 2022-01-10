@@ -1,4 +1,3 @@
-# React-getting-started
+# React playground
 
-
-following the React getting started course of Pluralsight
+Enjoying React, that's it
